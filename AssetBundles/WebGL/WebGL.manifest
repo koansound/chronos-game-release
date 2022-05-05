@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 167973596
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: level_desert
+      Dependencies: {}
+    Info_1:
+      Name: level_islands
+      Dependencies: {}
+    Info_2:
+      Name: level_mountain
+      Dependencies: {}
+    Info_3:
+      Name: level_forest
+      Dependencies: {}
+    Info_4:
+      Name: level_hub
+      Dependencies: {}
